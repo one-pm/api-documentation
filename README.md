@@ -4,8 +4,6 @@ Api Documentation
 FORMAT: 1A
 HOST: http://demo-api.one-pm.com.com/v3/
 
-# One PM - API Documentation
-
 Welcome to One PM API.The API powers our own apps and is designed to be comprehensive and powerful. We want you to have everything you need to build great things with One PM.
 This documentation covers the following endpoints arount your portfolios:
 
